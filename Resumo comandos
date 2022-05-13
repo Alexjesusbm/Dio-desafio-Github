@@ -1,0 +1,36 @@
+## Git e GitHub
+ls, dir
+mkdir
+rmdir(todo repositório)
+-pwd (caminho completo)
+
+iniciar repositório- git init
+
+mover arquivos e dar início ao versionamento e primeiros comandos
+- git add
+
+Primeiro coomet -git commit
+Arquivos ocultos -ls -a
+listar infos - git config –list
+
+antes do commit, 
+git config– global user.email (email) unset para retirar
+git config– global user.name (name)
+echo > (para criação de arquivos)
+
+git add * unmodified> staged 
+git commit -m “commit inicial”   -m (mensagem) 
+Staged (read to be comitted), to unstagedd:
+git restore --staged <file>
+
+Git status 
+git remote add origin <link> para falar a origem
+git remote -v (listas de repositórios remotos cadastrados)
+git push origin master
+git pull origin master (puxar arquivos do hub)
+mv (txt) ./ /receitas/
+
+
+Conflitos
+merge (pull a versão, comparar arquivos depois pull)
+
