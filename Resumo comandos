@@ -1,4 +1,5 @@
-## Git e GitHub
+Git e GitHub
+
 ls, dir
 mkdir
 rmdir(todo repositório)
@@ -30,7 +31,5 @@ git push origin master
 git pull origin master (puxar arquivos do hub)
 mv (txt) ./ /receitas/
 
-
 Conflitos
 merge (pull a versão, comparar arquivos depois pull)
-
