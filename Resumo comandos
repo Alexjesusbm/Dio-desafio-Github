@@ -14,6 +14,7 @@ Primeiro coomet -git commit
 Arquivos ocultos -ls -a
 listar infos - git config –list
 
+git clone <link> (para clonar repositorio remoto em repositorio local)
 antes do commit, 
 git config– global user.email (email) unset para retirar
 git config– global user.name (name)
