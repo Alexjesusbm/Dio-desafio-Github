@@ -6,7 +6,6 @@ rmdir(todo repositório)
 -pwd (caminho completo)
 
 iniciar repositório- git init
-
 mover arquivos e dar início ao versionamento e primeiros comandos
 - git add
 
@@ -30,6 +29,9 @@ git remote add origin <link> para falar a origem
 git remote -v (listas de repositórios remotos cadastrados)
 git push origin master
 git pull origin master (puxar arquivos do hub)
+
+O comando "push" é utilizado para enviar alterações feitas no repositório local para o repositório remoto.
+O comando "pull" é utilizado para trazer as últimas alterações do repositório remoto para o repositório local.
 mv (txt) ./ /receitas/
 
 Conflitos
